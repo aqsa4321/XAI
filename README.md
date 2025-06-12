@@ -1,8 +1,11 @@
 📊 Explainable AI (XAI) for Tabular Data
 
 ✅ Key Features
+
   Model-Agnostic Explanations
+  
   Local explanations using LIME and SHAP
+  
   Global feature importance via SHAP summary plots
   Binary & Multi-Class Classification Support
   Handles both 2-class and multi-class targets
